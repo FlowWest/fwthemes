@@ -1,0 +1,13 @@
+Package: fwthemes
+Type: Package
+Title: FlowWest ggplot2 themes
+Version: 0.1.0
+Authors@R: person("Emanuel", "Rodriguez", email = "erodriguez@flowwest.com", role = c("aut", "cre"))
+Description: A set of ggplot2 themes for use at FlowWest
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggthemes,
+    ggplot2
+RoxygenNote: 7.1.0
